@@ -11,10 +11,11 @@ FlipCase is a simple and intuitive React-based web application for text manipula
 - 📄 About page with app details
 
 ## 🛠 Tech Stack
--React
--JavaScript
--HTML/CSS
 
+- React
+- JavaScript
+- HTML/CSS
+- 
 ## 📁 Folder Structure
 
 FlipCase/ ├── public/ │ ├── android-chrome-192x192.png │ ├── android-chrome-512x512.png │ ├── apple-touch-icon.png │ ├── favicon.ico │ └── index.html ├── src/ │ ├── components/ │ │ ├── About.js │ │ ├── Alert.js │ │ ├── Navbar.js │ │ └── TextForm.js │ ├── App.js │ ├── App.css │ ├── index.js │ └── index.css └── README.md
@@ -30,18 +31,13 @@ FlipCase/ ├── public/ │ ├── android-chrome-192x192.png │ ├─�
 
 1. Clone the repository:
 
-git clone https://github.com/PatelAnuj01/FlipCase.git
-cd FlipCase
+- git clone https://github.com/PatelAnuj01/FlipCase.git 
+  cd FlipCase
 
 2. Install dependencies:
 
-npm install
-# or
-yarn install
+- npm install or yarn install
 
 3. Run the app:
 
-npm start
-# or
-yarn start
-
+- npm start or yarn start
