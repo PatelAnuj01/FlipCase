@@ -15,7 +15,7 @@ FlipCase is a simple and intuitive React-based web application for text manipula
 - React
 - JavaScript
 - HTML/CSS
-- 
+  
 ## 📁 Folder Structure
 
 FlipCase/ ├── public/ │ ├── android-chrome-192x192.png │ ├── android-chrome-512x512.png │ ├── apple-touch-icon.png │ ├── favicon.ico │ └── index.html ├── src/ │ ├── components/ │ │ ├── About.js │ │ ├── Alert.js │ │ ├── Navbar.js │ │ └── TextForm.js │ ├── App.js │ ├── App.css │ ├── index.js │ └── index.css └── README.md
